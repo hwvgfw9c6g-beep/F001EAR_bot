@@ -10,7 +10,7 @@ from telegram.ext import (
 )
 
 
-TOKEN = os.getenv(AAHlAEodjSrQmo-cnPQ4JOkjIiFwNilIvU8)
+TOKEN = os.getenv(BOT_TOKEN)
 
 CHANNEL_ID = -1003514787630
 
