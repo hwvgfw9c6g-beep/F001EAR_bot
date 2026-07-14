@@ -12,7 +12,7 @@ from telegram.ext import (
 
 TOKEN = os.getenv("AAHlAEodjSrQmo-cnPQ4JOkjIiFwNilIvU8")
 
-CHANNEL_ID = -780868054
+CHANNEL_ID = -1003514787630
 
 
 PREFIXES = (
